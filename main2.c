@@ -22,5 +22,5 @@ days = 364 * count + 365 * (age - count);
 printf("You are on the Earth ");
 printf("%d", days);
 printf(" days\n");
-printf("end");
+printf("end");//sdfsdfsd
 }
